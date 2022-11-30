@@ -1,1 +1,3 @@
-its just the begging
+This diectory contains a script that
+# print("Best School") 
+
